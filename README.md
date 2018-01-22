@@ -1,2 +1,2 @@
 # MVC-Library
-Training project for asp.net mvc features
+Training project for learning asp.net mvc 5 features
