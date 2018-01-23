@@ -8,9 +8,9 @@ namespace Library.Models
     public enum Genre
     {
         fantasy,
-        novels,
-        detectives,
-        poems,
+        novel,
+        detective,
+        poem,
         prose,
         lyrical
     }

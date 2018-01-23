@@ -4,9 +4,9 @@ namespace Library.Models
     using System.Data.Entity;
     using System.Linq;
 
-    public class Library : DbContext
+    public class LibraryContext : DbContext
     {
-        public Library()
+        public LibraryContext()
             : base("name=Library")
         {
         }
